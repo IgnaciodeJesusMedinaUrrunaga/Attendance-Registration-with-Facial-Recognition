@@ -10,4 +10,9 @@ To use this repository the Requirements are:
 - Install virtualenv with pip and create a virtual environment in which the required libraries will be installed (check requirements.txt)
 - Add images with "jpg" or "png" format in the "Images" or "Imagenes" folder respectively
 
+<p float="left">
+  <img src="https://i.ibb.co/RcRKNfN/foto-para-mostrar-en-el-repo.png" alt="foto-para-mostrar-en-el-repo" width="400"/>
+  <img src="https://i.ibb.co/syM9Vj9/registros-output-ejemplo.png" alt="registros-output-ejemplo" width="400"/> 
+</p>
+
 This code was created for use of the Artificial Intelligence circle of the University of Lima
