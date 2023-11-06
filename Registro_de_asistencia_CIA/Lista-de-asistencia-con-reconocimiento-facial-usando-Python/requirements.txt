@@ -1,0 +1,31 @@
+absl-py==1.4.0
+attrs==23.1.0
+cffi==1.15.1
+click==8.1.7
+colorama==0.4.6
+contourpy==1.1.0
+cycler==0.11.0
+dlib==19.24.2
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+mysql-connector-python==8.1.0
+numpy==1.25.2
+opencv-contrib-python==4.7.0.72
+Pillow==10.0.1
+pip==23.2.1
+protobuf==4.21.12
+pycparser==2.21
+setuptools==65.5.0
+reportlab==4.0.6
+# pip ya debería estar instalado en python
+# instalar venv con el comando "pip install virtualenv"
+# crear venv, documentación de venv: https://virtualenv.pypa.io/en/latest/user_guide.html (usar el código de abajo)
+
+# virtualenv asistencia_venv
+# .\asistencia_venv\Scripts\activate
+
+# en la carpeta Registro_de_asistencia_CIA/Lista-de-asistencia-con-reconocimiento-facial-usando-Python ejecutar el comando
+
+# pip install -r requirements.txt
+
+# (si el código no funciona en la terminal de PowerShell probar en Cmd)
