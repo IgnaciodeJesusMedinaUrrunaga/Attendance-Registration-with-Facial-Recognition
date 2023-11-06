@@ -11,6 +11,11 @@ To use this repository the Requirements are:
 - Add images with "jpg" or "png" format in the "Images" or "Imagenes" folder respectively
 
 <p float="left">
+  <img src="https://ibb.co/m4fK0k0" alt="foto_ejemplo" width="350"/>
+  <img src="https://ibb.co/RzVTD2T" alt="registro_ejemplo" width="350"/> 
+</p>
+
+<p float="left">
   <img src="https://i.ibb.co/RcRKNfN/foto-para-mostrar-en-el-repo.png" alt="foto-para-mostrar-en-el-repo" style="max-width: 100%; height: auto;" width="350"/>
   <img src="https://i.ibb.co/syM9Vj9/registros-output-ejemplo.png" alt="registros-output-ejemplo" style="max-width: 100%; height: auto;" width="350"/> 
 </p>
