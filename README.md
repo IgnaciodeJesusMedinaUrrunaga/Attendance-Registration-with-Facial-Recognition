@@ -11,9 +11,10 @@ To use this repository the Requirements are:
 - Add images with "jpg" or "png" format in the "Images" or "Imagenes" folder respectively
 
 <p>
-  <img src="https://i.ibb.co/m4fK0k0/foto-para-mostrar-en-el-repo.png" alt="foto-para-mostrar-en-el-repo" style="width: auto; max-width: 45%; height: auto; margin-right: 10px;" />
-  <img src="https://i.ibb.co/RzVTD2T/registros-output-ejemplo.png" alt="registros-output-ejemplo" style="width: auto; max-width: 45%; height: auto; margin-left: 10px;" />
+  <img src="https://i.ibb.co/m4fK0k0/foto-para-mostrar-en-el-repo.png" alt="foto-para-mostrar-en-el-repo" style="max-width: 50%; height: auto;" />
+  <img src="https://i.ibb.co/RzVTD2T/registros-output-ejemplo.png" alt="registros-output-ejemplo" style="max-width: 50%; height: auto;" />
 </p>
+
 
 
 This code was created for use of the Artificial Intelligence circle of the University of Lima
