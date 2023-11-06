@@ -10,9 +10,10 @@ To use this repository the Requirements are:
 - Install virtualenv with pip and create a virtual environment in which the required libraries will be installed (check requirements.txt)
 - Add images with "jpg" or "png" format in the "Images" or "Imagenes" folder respectively
 
-<p>
+<p><center>
   <img src="https://i.ibb.co/m4fK0k0/foto-para-mostrar-en-el-repo.png" alt="foto-para-mostrar-en-el-repo" style="width: auto; max-width: 45%; height: auto; margin-right: 10px;" />
   <img src="https://i.ibb.co/RzVTD2T/registros-output-ejemplo.png" alt="registros-output-ejemplo" style="width: auto; max-width: 45%; height: auto; margin-left: 10px;" />
+</center>
 </p>
 
 
